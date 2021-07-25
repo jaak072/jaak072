@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Problem Solving
 - 🌱 I’m currently learning computer science and engineering and web development
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me on my email :- jawed2018cse@gmail.com
+- 📫 How to reach me  :- jawed2018cse@gmail.com
 
 <!---
 jaak072/jaak072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
