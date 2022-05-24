@@ -7,33 +7,35 @@
 ## 🎬 My Activities
 
 #### 👷 I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-  {{- end}}
+
+- [MCET-Alumni/MCET-Alumni-Website](https://github.com/MCET-Alumni/MCET-Alumni-Website) -  (1 month ago)
+- [Upendra0/College-Space](https://github.com/Upendra0/College-Space) -  (5 months ago)
+- [jaak072/profilepic](https://github.com/jaak072/profilepic) -  (5 months ago)
+- [jaak072/crtl_eXpense](https://github.com/jaak072/crtl_eXpense) -  (5 months ago)
+- [jaak072/Stock-calculater](https://github.com/jaak072/Stock-calculater) - This calculater is calculate your stock is in loss or Profit (9 months ago)
 
 #### 🚀 Latest releases I contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-  {{- end}}
+
 
 #### ⭐ Latest repositories I starred
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
-  {{- end}}
+
 
 #### 👥 Latest follower
-{{range followers 5}}
-- [{{.Login}}]({{.URL}}) - {{.Name}}
-  {{- end}}
+
+- [Salma072](https://github.com/Salma072) - Salma Sultana
+- [mrinjamul](https://github.com/mrinjamul) - Injamul Mohammad Mollah
+- [atulya-karn](https://github.com/atulya-karn) - Atulya Kumar
+- [supriye](https://github.com/supriye) - Supriye Anand
+- [Upendra0](https://github.com/Upendra0) - Upendra Kumar
 
 #### 👨‍💻 Repositories I created recently
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
-  {{- end}}
+
+- [jaak072/college_space](https://github.com/jaak072/college_space)
+- [jaak072/profilepic](https://github.com/jaak072/profilepic)
+- [jaak072/Huttese-translater](https://github.com/jaak072/Huttese-translater) - Convert from English to huttese speak
+- [jaak072/Is-palindrome-birthday](https://github.com/jaak072/Is-palindrome-birthday) - take DOB form user and tell them , Is his /her birthday is palindrome are not!
+- [jaak072/portfolio-jaak](https://github.com/jaak072/portfolio-jaak) - This protfolio is made for neogcamp admission purpose.
 
 
 
-<!---
-jaak072/jaak072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
