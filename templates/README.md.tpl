@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me  :- jawed2018cse@gmail.com
 
+![snake svg](https://github.com/jaak072/jaak072/blob/dist/github-contribution-grid-snake.svg)
+
+
 ## 🎬 My Activities
 
 #### 👷 I'm currently working on
