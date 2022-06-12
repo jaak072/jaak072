@@ -15,7 +15,7 @@
 - [Upendra0/College-Space](https://github.com/Upendra0/College-Space) -  (5 months ago)
 - [jaak072/profilepic](https://github.com/jaak072/profilepic) -  (6 months ago)
 - [jaak072/crtl_eXpense](https://github.com/jaak072/crtl_eXpense) -  (6 months ago)
-- [jaak072/Stock-calculater](https://github.com/jaak072/Stock-calculater) - This calculater is calculate your stock is in loss or Profit (9 months ago)
+- [jaak072/Stock-calculater](https://github.com/jaak072/Stock-calculater) - This calculater is calculate your stock is in loss or Profit (10 months ago)
 
 #### 🚀 Latest releases I contributed to
 
