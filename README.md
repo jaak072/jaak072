@@ -15,7 +15,7 @@
 - [Upendra0/College-Space](https://github.com/Upendra0/College-Space) -  (7 months ago)
 - [jaak072/profilepic](https://github.com/jaak072/profilepic) -  (8 months ago)
 - [jaak072/crtl_eXpense](https://github.com/jaak072/crtl_eXpense) -  (8 months ago)
-- [jaak072/banana-talk](https://github.com/jaak072/banana-talk) - English to Minion speak translater (11 months ago)
+- [jaak072/banana-talk](https://github.com/jaak072/banana-talk) - English to Minion speak translater (1 year ago)
 
 #### 🚀 Latest releases I contributed to
 
