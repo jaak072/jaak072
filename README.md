@@ -13,7 +13,7 @@
 
 - [jaak072/demo-allow](https://github.com/jaak072/demo-allow) -  (1 month ago)
 - [MCET-Alumni/MCET-Alumni-Website](https://github.com/MCET-Alumni/MCET-Alumni-Website) -  (8 months ago)
-- [Upendra0/College-Space](https://github.com/Upendra0/College-Space) -  (11 months ago)
+- [Upendra0/College-Space](https://github.com/Upendra0/College-Space) -  (1 year ago)
 - [jaak072/profilepic](https://github.com/jaak072/profilepic) -  (1 year ago)
 
 #### 🚀 Latest releases I contributed to
