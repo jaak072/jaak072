@@ -22,11 +22,11 @@
 
 #### 👥 Latest follower
 
+- [himanshu-prakash](https://github.com/himanshu-prakash) - 
 - [Salma072](https://github.com/Salma072) - Salma Sultana
 - [mrinjamul](https://github.com/mrinjamul) - Injamul Mohammad Mollah
 - [atulya-karn](https://github.com/atulya-karn) - Atulya Kumar
 - [supriye](https://github.com/supriye) - Supriye Anand
-- [Upendra0](https://github.com/Upendra0) - Upendra Kumar
 
 #### 👨‍💻 Repositories I created recently
 
