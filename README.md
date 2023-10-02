@@ -21,11 +21,11 @@
 
 #### 👥 Latest follower
 
+- [Gourab-dve360](https://github.com/Gourab-dve360) - Gourab Bhattacharjee
 - [himanshu-prakash](https://github.com/himanshu-prakash) - 
 - [Salma072](https://github.com/Salma072) - Salma Sultana
 - [mrinjamul](https://github.com/mrinjamul) - Injamul Mohammad Mollah
 - [atulya-karn](https://github.com/atulya-karn) - Atulya Kumar
-- [supriye](https://github.com/supriye) - Supriye Anand
 
 #### 👨‍💻 Repositories I created recently
 
