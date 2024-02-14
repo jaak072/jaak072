@@ -12,7 +12,7 @@
 #### 👷 I'm currently working on
 
 - [jaak072/demo-allow](https://github.com/jaak072/demo-allow) -  (3 weeks ago)
-- [jaak072/besed-on-check-myself](https://github.com/jaak072/besed-on-check-myself) -  (4 weeks ago)
+- [jaak072/besed-on-check-myself](https://github.com/jaak072/besed-on-check-myself) -  (1 month ago)
 
 #### 🚀 Latest releases I contributed to
 
