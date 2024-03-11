@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Problem Solving
 - 🌱 I’m currently learning computer science and engineering and web development
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me  :- jawed2018cse@gmail.com
+- 📫 How to reach me  :- jawedakhtar9709@gmail.com
 
 ![snake svg](https://github.com/jaak072/jaak072/blob/dist/github-contribution-grid-snake.svg)
 
