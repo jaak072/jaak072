@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Jawed Akhtar
-- 👨‍💻 Software Engineer @ Empaxis Data Management | 💻 Full-Stack Developer
-- 🔧 Solving complex problems with elegant solutions
-- 📊 Understanding business requirements | 🧪 Executing tests: unit, integration, black-box, GUI, function, regression
-- 💼 Proficient in Python, Java, Flask, Django, ReactJs
-- 🌱 Lifelong learner | 🚀 Let's build something amazing together!
-- 📫 How to reach me:- jawedakhtar9709@gmail.com
+- 👀 I’m interested in Web Development and Problem Solving
+- 🌱 I’m currently learning computer science and engineering and web development
+- 💞️ I’m looking to collaborate on development
+- 📫 How to reach me  :- jawed2018cse@gmail.com
 
 ![snake svg](https://github.com/jaak072/jaak072/blob/dist/github-contribution-grid-snake.svg)
 
