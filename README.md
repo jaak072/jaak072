@@ -15,7 +15,6 @@
 
 - [jaak072/demo-allow](https://github.com/jaak072/demo-allow) -  (5 months ago)
 - [jaak072/Re-startCode](https://github.com/jaak072/Re-startCode) - To practices the all code from HTML to React (10 months ago)
-- [jaak072/besed-on-check-myself](https://github.com/jaak072/besed-on-check-myself) -  (1 year ago)
 
 #### 🚀 Latest releases I contributed to
 
