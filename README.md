@@ -23,7 +23,7 @@
 
 #### 👥 Latest follower
 
-- [92Suhail](https://github.com/92Suhail) - 
+- [92Suhail](https://github.com/92Suhail) - Suhail Raza
 - [Gourab-dve360](https://github.com/Gourab-dve360) - Gourab Bhattacharjee
 - [himanshu-prakash](https://github.com/himanshu-prakash) - HIMANSHU PRAKASH
 - [Salma072](https://github.com/Salma072) - Salma Sultana
