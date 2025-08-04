@@ -13,7 +13,6 @@
 
 #### 👷 I'm currently working on
 
-- [jaak072/demo-allow](https://github.com/jaak072/demo-allow) -  (1 year ago)
 
 #### 🚀 Latest releases I contributed to
 
