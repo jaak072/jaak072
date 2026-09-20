@@ -20,7 +20,7 @@
 
 #### ⭐ Latest repositories I starred
 
-- [UiPath/skills](https://github.com/UiPath/skills) - This is a repository of skills for interfacing UiPath capabilities to external developers. - 160 stars
+- [UiPath/skills](https://github.com/UiPath/skills) - This is a repository of skills for interfacing UiPath capabilities to external developers. - 161 stars
 
 #### 👥 Latest follower
 
